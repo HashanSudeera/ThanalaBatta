@@ -1,0 +1,5 @@
+#ignore vertial env
+venv/
+
+#ignore pycache
+__pycache__/
